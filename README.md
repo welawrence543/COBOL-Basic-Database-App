@@ -1,3 +1,3 @@
-# COBOL-C.R.U.D.
+# COBOL-Basic-Database-App
 
-This is a console application, written in COBOL, that allows the user to create, read, update, and delete records in a database.
+A console application, written in COBOL, that allows the user to create, read, update, and delete records in a database of employees.
